@@ -51,7 +51,7 @@ public class Manager : MonoBehaviour {
 				}
 			}
 
-		}
+		} 
 
 		if (mainNodes.Count > 1 && chainAdded == false) 
 		{
